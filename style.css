@@ -1,0 +1,8 @@
+body{
+    color: azure;
+    background-color: beige;
+    background-image: url(https://images.unsplash.com/photo-1605729345882-444a01888119?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
